@@ -10,7 +10,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=vue) -->
 
 <div align="center">
-  👋
+  <img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="30"/>
 
 <br />
 <!-- #### 🖍️ -->
