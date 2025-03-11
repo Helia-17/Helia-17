@@ -120,9 +120,23 @@
 
 
 <br />
-<br />
 
 <!-- <hr /> -->
+
+<!--
+  <h3> Keep in touch ☺️</h3>
+  
+  <a href="https://tistory.com/">
+    <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/">
+      <img src="https://img.shields.io/badge/Daily blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+  <a href="mailto:jyk.helia@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+   </br></br>
+-->
 
 <br />
 
